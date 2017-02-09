@@ -1,0 +1,80 @@
+<style>
+body {
+  background: #777;
+}
+
+h1 {
+  font-size: 18px;
+  font-family: Arial;
+}
+p {
+  font-size: 18px;
+  font-family: Helvetica;
+}
+.Header {
+  width: 800px;
+  height: 100px;
+  padding: 30px;
+  border: 1px;
+  border-style: solid;
+  background-color: #ebebeb;
+  margin: 30px;
+  text-align: center;
+}
+
+.Nav {
+  width: 800px;
+  height: 100px;
+  padding: 30px;
+  border: 1px;
+  border-style: solid;
+  background-color: #ebebeb;
+  margin: 30px;
+  text-align: center;
+}
+
+.Aside {
+  border: 1px;
+  border-top-style: solid;
+  border-right-style: solid;
+  border-left-style: solid;
+  border-bottom-style: solid;
+  background-color: #ebebeb;
+  text-align: top-center;
+}
+.Section {
+  border: 1px;
+  border-style: solid;
+  background-color: #ebebeb;
+  text-align: center;
+  Height: 500px;
+}
+.Article {
+  color: #ebebeb;
+}
+.h1h2h3 {
+  border: 1px;
+  border-style: solid;
+  background-color: #ebebeb;
+  position: relative;
+  text-align: top-center;
+}
+.p {
+  border: 1px;
+  border-style: solid;
+  background-color: #ebebeb;
+  position: relative;
+  text-align: top-center;
+}
+
+.Footer {
+  width: 800px;
+  height: 100px;
+  padding: 30px;
+  border: 1px;
+  border-style: solid;
+  background-color: #ebebeb;
+  margin: 30px;
+  text-align: center;
+}
+</style>
